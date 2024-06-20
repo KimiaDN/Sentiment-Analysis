@@ -8,6 +8,6 @@ In this project, we have worked on a Natural Language Processing classification 
 - To enhance the performance of the neural network, transfer learning was utilized, leveraging the pre-trained language model BERT. Embedded layers were incorporated   to capture meaningful representations of the text.
 
 # Team Members
-- [Kimia Darvish Noori]
+- [Kimia Darvish Noori](https://github.com/KimiaDN)
 - [Hosna Habibi](https://github.com/HosnawHb)
 - [Pooya Kavosh](https://github.com/Jarvis017)
